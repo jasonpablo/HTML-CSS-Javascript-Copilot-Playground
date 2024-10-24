@@ -23,15 +23,11 @@ header {
 
 .logo h1 {
     font-size: 36px;
+    font-weight: bold;
 }
 
 .serif {
     font-family: 'Times New Roman', serif;
-}
-
-.sans-serif {
-    font-family: 'Helvetica', sans-serif;
-    font-weight: bold;
 }
 
 nav ul {
